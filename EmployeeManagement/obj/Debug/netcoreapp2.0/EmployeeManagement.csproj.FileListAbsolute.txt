@@ -1,0 +1,10 @@
+C:\Users\Inspiron\Source\Repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.0\EmployeeManagement.deps.json
+C:\Users\Inspiron\Source\Repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.0\EmployeeManagement.runtimeconfig.json
+C:\Users\Inspiron\Source\Repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.0\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\Inspiron\Source\Repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.0\EmployeeManagement.dll
+C:\Users\Inspiron\Source\Repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.0\EmployeeManagement.pdb
+C:\Users\Inspiron\Source\Repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron\Source\Repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\Inspiron\Source\Repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\Inspiron\Source\Repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.dll
+C:\Users\Inspiron\Source\Repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.pdb
