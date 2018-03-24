@@ -15,7 +15,9 @@ Create table tblEmployee(
     Gender varchar(6) NOT NULL    
 )
 Now, we will create stored procedures to add, delete, update, and get employee data.
+
 ---------------------------------------------------------------------------------------------
+
 //To insert an Employee Record//
 Create procedure spAddEmployee     
 (    
@@ -31,6 +33,7 @@ Begin
 End
 
 --------------------------------------------------------------------------------------------
+
 //To update an Employee Record//
 Create procedure spUpdateEmployee      
 (      
@@ -49,6 +52,7 @@ begin
    Gender=@Gender      
    where EmployeeId=@EmpId      
 End
+
 -----------------------------------------------------------------------------------------------
 
 //To delete an Employee Record//
@@ -62,6 +66,7 @@ begin
 End
 
 ----------------------------------------------------------------------------------------------
+
 //To view all Employee Records//
 Create procedure spGetAllEmployees    
 as    
