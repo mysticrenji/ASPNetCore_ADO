@@ -16,7 +16,7 @@ Create table tblEmployee(
 )
 Now, we will create stored procedures to add, delete, update, and get employee data.
 ---------------------------------------------------------------------------------------------
-//To insert an Employee Record
+//To insert an Employee Record//
 Create procedure spAddEmployee     
 (    
     @Name VARCHAR(20),     
@@ -31,7 +31,7 @@ Begin
 End
 
 --------------------------------------------------------------------------------------------
-//To update an Employee Record
+//To update an Employee Record//
 Create procedure spUpdateEmployee      
 (      
    @EmpId INTEGER ,    
@@ -51,7 +51,7 @@ begin
 End
 -----------------------------------------------------------------------------------------------
 
-//To delete an Employee Record
+//To delete an Employee Record//
 Create procedure spDeleteEmployee     
 (      
    @EmpId int      
@@ -62,7 +62,7 @@ begin
 End
 
 ----------------------------------------------------------------------------------------------
-//To view all Employee Records
+//To view all Employee Records//
 Create procedure spGetAllEmployees    
 as    
 Begin    
